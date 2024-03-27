@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T12:12:26.859Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="fH0ktJ4n9ITqLJdUrAbx" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T13:36:01.761Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="1reOMBySep4o-2zyGCOu" version="24.2.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1386" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -45,6 +45,9 @@
         <mxCell id="yVCoZ4X0CeeAgaEIHaB0-17" value="شماره&amp;nbsp;&lt;div&gt;همراه&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="60" y="-510" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yVCoZ4X0CeeAgaEIHaB0-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yVCoZ4X0CeeAgaEIHaB0-20" target="yVCoZ4X0CeeAgaEIHaB0-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yVCoZ4X0CeeAgaEIHaB0-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;مدیر&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
@@ -81,17 +84,20 @@
         <mxCell id="yVCoZ4X0CeeAgaEIHaB0-39" value="شماره&amp;nbsp;&lt;div&gt;شناسنامه&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="522.5" y="-362.5" width="65" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="yVCoZ4X0CeeAgaEIHaB0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yVCoZ4X0CeeAgaEIHaB0-41" target="yVCoZ4X0CeeAgaEIHaB0-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yVCoZ4X0CeeAgaEIHaB0-41" value="نام" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-422.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="595.5" y="-392.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yVCoZ4X0CeeAgaEIHaB0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yVCoZ4X0CeeAgaEIHaB0-43" target="yVCoZ4X0CeeAgaEIHaB0-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yVCoZ4X0CeeAgaEIHaB0-43" value="تعداد اعضا" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="425" y="-362.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yVCoZ4X0CeeAgaEIHaB0-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yVCoZ4X0CeeAgaEIHaB0-44" target="yVCoZ4X0CeeAgaEIHaB0-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVCoZ4X0CeeAgaEIHaB0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yVCoZ4X0CeeAgaEIHaB0-44" target="yVCoZ4X0CeeAgaEIHaB0-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yVCoZ4X0CeeAgaEIHaB0-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;تیم&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-467.5" width="120" height="60" as="geometry" />
@@ -125,6 +131,15 @@
         </mxCell>
         <mxCell id="yVCoZ4X0CeeAgaEIHaB0-60" value="وضعیت&lt;div&gt;حل&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="25" y="-230" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="yVCoZ4X0CeeAgaEIHaB0-65" value="مدیریت&amp;nbsp;&lt;div&gt;کردن&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-478.75" width="80" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yVCoZ4X0CeeAgaEIHaB0-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-585" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yVCoZ4X0CeeAgaEIHaB0-70" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-467.5" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
