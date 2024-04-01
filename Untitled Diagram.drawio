@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T11:49:38.207Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="LYfb7T5BSXjBAG1Gz10C" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T12:51:53.279Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="xhRVzwyI4yS-Anf69_l6" version="24.2.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1733" dy="2099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1459" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,11 +50,10 @@
         <mxCell id="z1Z80i2soqw3F6R9hRS5-6" value="&lt;font size=&quot;3&quot;&gt;شعبه&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z1Z80i2soqw3F6R9hRS5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z1Z80i2soqw3F6R9hRS5-8" target="z1Z80i2soqw3F6R9hRS5-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z1Z80i2soqw3F6R9hRS5-8" value="شناسه&lt;div&gt;مشتری&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-100" width="60" height="60" as="geometry" />
+        <mxCell id="z1Z80i2soqw3F6R9hRS5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="z1Z80i2soqw3F6R9hRS5-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="-70" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="z1Z80i2soqw3F6R9hRS5-10" value="نام" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="40" y="-20" width="50" height="50" as="geometry" />
@@ -74,11 +73,10 @@
         <mxCell id="z1Z80i2soqw3F6R9hRS5-18" value="توضیحات" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="770" y="-185" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z1Z80i2soqw3F6R9hRS5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z1Z80i2soqw3F6R9hRS5-20" target="z1Z80i2soqw3F6R9hRS5-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z1Z80i2soqw3F6R9hRS5-20" value="شناسه&amp;nbsp;&lt;div&gt;غذا&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="765" y="-270" width="50" height="50" as="geometry" />
+        <mxCell id="z1Z80i2soqw3F6R9hRS5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" target="z1Z80i2soqw3F6R9hRS5-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="-245" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="z1Z80i2soqw3F6R9hRS5-22" value="قیمت" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="740" y="-130" width="50" height="50" as="geometry" />
@@ -128,11 +126,10 @@
         <mxCell id="z1Z80i2soqw3F6R9hRS5-41" value="حقوق" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="25" y="330" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z1Z80i2soqw3F6R9hRS5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z1Z80i2soqw3F6R9hRS5-42" target="z1Z80i2soqw3F6R9hRS5-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z1Z80i2soqw3F6R9hRS5-42" value="شناسه&amp;nbsp;&lt;div&gt;پرسنل&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="120" y="180" width="50" height="50" as="geometry" />
+        <mxCell id="z1Z80i2soqw3F6R9hRS5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="z1Z80i2soqw3F6R9hRS5-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="z1Z80i2soqw3F6R9hRS5-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z1Z80i2soqw3F6R9hRS5-43" target="z1Z80i2soqw3F6R9hRS5-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -170,11 +167,10 @@
         <mxCell id="z1Z80i2soqw3F6R9hRS5-70" value="نام&amp;nbsp;&lt;div&gt;شعبه&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="730" y="410" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z1Z80i2soqw3F6R9hRS5-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z1Z80i2soqw3F6R9hRS5-71" target="z1Z80i2soqw3F6R9hRS5-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z1Z80i2soqw3F6R9hRS5-71" value="شناسه&amp;nbsp;&lt;div&gt;شعبه&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="640" y="410" width="60" height="60" as="geometry" />
+        <mxCell id="z1Z80i2soqw3F6R9hRS5-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="z1Z80i2soqw3F6R9hRS5-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="470" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="z1Z80i2soqw3F6R9hRS5-72" value="آدرس&amp;nbsp;&lt;div&gt;شعبه&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="785" y="490" width="60" height="60" as="geometry" />
@@ -271,6 +267,18 @@
               <mxPoint x="340" y="-70" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Df6m1XR027oWgeIMfN6P-2" value="شناسه غذا" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="745" y="-270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Df6m1XR027oWgeIMfN6P-3" value="شماره شناسنامه" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry y="-90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Df6m1XR027oWgeIMfN6P-4" value="شناسه پرسنل" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Df6m1XR027oWgeIMfN6P-5" value="شناسه شعبه" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="615" y="430" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
