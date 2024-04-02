@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T12:36:00.127Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="NociTRfgG-wBcnCoHvMq" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T12:38:27.105Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ppv0bo1Hah1Tgc5wem2w" version="24.2.1" type="github">
   <diagram name="Page-1" id="StgHWz4NghMafxSv1uW0">
     <mxGraphModel dx="1459" dy="3041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,11 +53,10 @@
         <mxCell id="T2EJ2uYSbOceFDYWCZ22-17" value="نام&amp;nbsp;&lt;div&gt;مدیر&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="690" y="-1083.75" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T2EJ2uYSbOceFDYWCZ22-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T2EJ2uYSbOceFDYWCZ22-20" target="T2EJ2uYSbOceFDYWCZ22-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T2EJ2uYSbOceFDYWCZ22-20" value="شناسه&amp;nbsp;&lt;div&gt;شعبه&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="870" y="-996.25" width="65" height="65" as="geometry" />
+        <mxCell id="T2EJ2uYSbOceFDYWCZ22-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="T2EJ2uYSbOceFDYWCZ22-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870.0000026635412" y="-963.7368421052629" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="T2EJ2uYSbOceFDYWCZ22-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T2EJ2uYSbOceFDYWCZ22-21" target="T2EJ2uYSbOceFDYWCZ22-40" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -65,9 +64,6 @@
               <mxPoint x="165" y="-600" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="T2EJ2uYSbOceFDYWCZ22-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="T2EJ2uYSbOceFDYWCZ22-21" target="T2EJ2uYSbOceFDYWCZ22-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T2EJ2uYSbOceFDYWCZ22-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;گواهی نامه&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="-620" width="120" height="60" as="geometry" />
@@ -114,11 +110,10 @@
         <mxCell id="d3bOrSOvgRTrkonS77Jh-3" value="نام وسیله" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="-1280" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d3bOrSOvgRTrkonS77Jh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d3bOrSOvgRTrkonS77Jh-7" target="d3bOrSOvgRTrkonS77Jh-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="d3bOrSOvgRTrkonS77Jh-7" value="کد وسیله" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="-1280" width="75" height="50" as="geometry" />
+        <mxCell id="d3bOrSOvgRTrkonS77Jh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" target="d3bOrSOvgRTrkonS77Jh-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657.5" y="-1230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="d3bOrSOvgRTrkonS77Jh-9" value="امتحان دادن" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="-950" width="90" height="90" as="geometry" />
@@ -215,6 +210,21 @@
         </mxCell>
         <mxCell id="W4u7JPgKXR2q4pbRJByI-42" value="محزو دارد یا نه" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="-1340" width="82.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W4u7JPgKXR2q4pbRJByI-44" value="کد وسیله" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-1250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W4u7JPgKXR2q4pbRJByI-45" value="شناسه شعبه" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-980" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W4u7JPgKXR2q4pbRJByI-47" value="" style="shape=link;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T2EJ2uYSbOceFDYWCZ22-21" target="T2EJ2uYSbOceFDYWCZ22-43">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="425" y="-680" as="sourcePoint" />
+            <mxPoint x="425" y="-740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="-680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
